@@ -8,7 +8,7 @@ I'm a beginner Java developer from Canada who loves to learn new technologies an
 
 - 🌱 I’m currently learning **Web Development & Object Oriented Programming II**
 
-- 🤝 I’m looking for help with **an internship for the Fall 2024 Term**
+- 🤝 I’m looking for **an internship for the Fall 2024 Term**
 
 - 📫 How to reach me: **priyeshpatel1216@gmail.com**
 
