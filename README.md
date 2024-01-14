@@ -2,7 +2,7 @@
 
 I'm a beginner Java developer from Canada who loves to learn new technologies and develop my software skills.
 
-- I'm currently a student at Concordia University in Montreal in the Co-op Software Engineering Program (B.Eng)
+- I'm currently a student at Concordia University in Montreal in the **Co-op Software Engineering Program (B.Eng)**
 
 - 🔭 I’m currently working on **expanding my skills and checking out new technologies**
 
