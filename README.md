@@ -6,7 +6,7 @@ I'm a beginner Java developer from Canada who loves to learn new technologies an
 
 - 🔭 I’m currently working on **expanding my skills and checking out new technologies**
 
-- 🌱 I’m currently learning **Web Development & Object Oriented Programming II**
+- 🌱 I’m currently learning **Web Development (HTML, CSS, JavaScript) & Object Oriented Programming II (Java)**
 
 - 🤝 I’m looking for **an internship for the Fall 2024 Term**
 
