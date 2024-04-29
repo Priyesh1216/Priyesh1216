@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Priyesh Patel
 
-I'm a beginner Java developer from Canada who loves to learn new technologies and develop my software skills.
+I'm a beginner Java & C# developer from Montreal, Quebec. I love to learn new technologies and develop my software skills.
 
 - I'm currently a student at Concordia University in Montreal in the **Co-op Software Engineering Program (B.Eng)**
 
