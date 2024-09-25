@@ -1,14 +1,14 @@
 ### Hi there 👋 I'm Priyesh Patel
 
-I'm a beginner Java & C# developer from Montreal, Quebec. I love to learn new technologies and develop my software skills.
+I'm a beginner Java & Python developer from Montreal, Quebec. I love to learn new technologies and develop my software skills.
 
 - I'm currently a student at Concordia University in Montreal in the **Co-op Software Engineering Program (B.Eng)**
 
 - 🔭 I’m currently working on **expanding my skills and checking out new technologies**
 
-- 🌱 I’m currently learning **Web Development (HTML, CSS, JavaScript) & Object Oriented Programming II (Java)**
+- 🌱 I’m currently learning **C++ through the COMP 345 (Advanced Programming in C++) course at Concordia**
 
-- 🤝 I’m looking for **an internship for the Fall 2024 Term**
+- 🤝 I’m looking for **an internship for the Winter 2025 Term**
 
 - 📫 How to reach me: **priyeshpatel1216@gmail.com**
 
