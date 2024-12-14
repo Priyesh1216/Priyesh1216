@@ -8,11 +8,9 @@ I'm a beginner Java & Python developer from Montreal, Quebec. I love to learn ne
 
 - 🌱 I’m currently learning **C++ through the COMP 345 (Advanced Programming in C++) course at Concordia**
 
-- 🤝 I’m looking for **an internship for the Winter 2025 Term**
-
 - 📫 How to reach me: **priyeshpatel1216@gmail.com**
 
-- Connect with me: **https://www.linkedin.com/in/priyesh-patel-a14ba9216/**
+- 🤝 Connect with me: **https://www.linkedin.com/in/priyesh-patel-a14ba9216/**
 <p align="left">
 </p>
 
