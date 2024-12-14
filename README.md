@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Priyesh Patel
+### Hi there! 👋 I'm Priyesh Patel
 
 I'm a beginner Java & Python developer from Montreal, Quebec. I love to learn new technologies and develop my software skills.
 
