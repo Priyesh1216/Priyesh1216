@@ -4,7 +4,7 @@ I'm a beginner Java & Python developer from Montreal, Quebec. I love to learn ne
 
 - I'm currently a student at Concordia University in Montreal in the **Co-op Software Engineering Program (B.Eng)** and working as a Developer intern at IBM Montreal for the 2025 Winter Term. I am seeking a Summer 2025 internship!
 
-- 🔭 I’m currently working on **expanding my skills and checking out new technologies**
+- 🔭 I’m currently working on **a Cover Letter generator personalized for specific job applications and your resume!**
 
 - 🌱 I’m currently learning **LangChain with Python**
 
