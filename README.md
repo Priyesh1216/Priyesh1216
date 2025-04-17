@@ -6,7 +6,7 @@ I'm a intermediate Java & Python developer from Montreal, Quebec.
 
 - 🔭 I’m currently working on **a Cover Letter generator personalized for specific job applications and your resume!**
 
-- 🌱 I’m currently learning **LangChain with Python**
+- 🌱 I’m currently learning about **AI Agents with Python**
 
 - 📫 How to reach me: **priyeshpatel1216@gmail.com**
 
