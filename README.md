@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Priyesh Patel
 
-I'm a intermediate Java & Python developer from Montreal, Quebec.
+I'm an intermediate Java & Python developer from Montreal, Quebec.
 
 - I'm currently a student at Concordia University in Montreal in the **Co-op Software Engineering Program (B.Eng)** and working as a Developer intern at IBM Montreal for the 2025 Winter Term. I am seeking a Summer 2025 internship!
 
