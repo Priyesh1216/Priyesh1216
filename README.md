@@ -2,7 +2,7 @@
 
 I'm a student software developer from Montreal, Quebec.
 
-- I'm currently a student at Concordia University in Montreal in the **Co-op Software Engineering Program (B.Eng)** and was a Developer intern at IBM Montreal for the 2025 Winter Term. I am currently seeking internship opportunities for the Summer 2026 term!
+- I am currently studying at Concordia University in Montreal in the **Co-op Software Engineering Program (B.Eng)** and was a Developer intern at IBM Montreal for the 2025 Winter Term. I am currently seeking internship opportunities for the Summer 2026 term!
 
 - 🔭 I’m currently working on **a Cover Letter generator personalized for specific job applications and your resume!**
 
