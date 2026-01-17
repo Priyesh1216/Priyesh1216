@@ -2,7 +2,7 @@
 
 I'm a student software developer from Montreal, Quebec.
 
-- I am currently studying at Concordia University in Montreal in the **Co-op Software Engineering Program (B.Eng)** and was a Developer intern at **IBM** for the Winter 2025 Term. In addition, I am incoming at **PwC** as a Cybersecurity intern for the Summer 2026 term.
+- I am currently studying at Concordia University in Montreal in the **Co-op Software Engineering Program (B.Eng)** and was a Developer intern at **IBM** for the Winter 2025 term. In addition, I am incoming at **PwC** as a Cybersecurity intern for the Summer 2026 term.
 
 - 📫 How to reach me: **priyeshpatel1216@gmail.com**
 
